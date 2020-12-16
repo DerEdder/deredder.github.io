@@ -1,0 +1,46 @@
+body {
+    background-color: #fffce8;
+    font-family: tenon, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    font-style: italic;
+}
+
+header {
+    padding: 30px;
+
+}
+
+.sitename {
+    font-size: 26px;
+    display: inline;
+    
+}
+
+.navbar {
+    display: inline-block;
+    float: right;
+    font-size: 20px;
+}
+
+main {
+    margin: 30px;
+}
+
+img {
+    max-width: 25%;
+    max-height: 25%;
+}
+
+.sina {
+    font-size: 60px;
+}
+
